@@ -10,5 +10,6 @@
     "test": "mocha"
   },
   "author": "Carla Zumarán",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
